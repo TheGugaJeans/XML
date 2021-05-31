@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<ID>
+    <predmet>
+    <naziv>Svemirski kamen</naziv>
+    <kolicina>1</kolicina>
+    <opis>Svemirski kamen, ulovljen sa okružujućim mrežama u području Mliječne staze. Svaki svemirski kamen ima težinu između 50g i 100g. Naručena težina je kompletno nasumična. Ne primamo reklamacije zbog težine.</opis>
+    <tezina>50g-100g</tezina>
+    <cijena>23</cijena>
+    </predmet>
+
+    <predmet>
+    <naziv>Dijamant</naziv>
+    <kolicina>1</kolicina>
+    <opis>Svježe iskopan dijamant najveće kvalitete. Prerađen unutar 24 sata. Iskopan na planetu 55 Cancri e. Svaki dijamant ima tezinu od 0.25ct te vanzemaljski sjaj.</opis>
+    <tezina>0.25</tezina>
+    <cijena>9,209.85</cijena>
+    </predmet>
+
+    <predmet>
+    <naziv>Astronaut</naziv>
+    <kolicina>1</kolicina>
+    <opis>Astronaut ulovljen blizu planeta Zemlje. Naravno još uvijek živ. Astronaut nije na prodaju. Astronauta vraćamo ako nam vratite Elona Muska.</opis>
+    <tezina>196</tezina>
+    <cijena>1</cijena>
+    </predmet>
+</ID>
